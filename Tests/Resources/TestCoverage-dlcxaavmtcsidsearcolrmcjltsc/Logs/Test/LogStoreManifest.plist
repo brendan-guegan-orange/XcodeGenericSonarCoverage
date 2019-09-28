@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>4116E3C7-3542-4ABE-9B17-5108423D61ED</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>B56B65BA-DBED-4171-BC43-E312F6D9655E</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-TestCoverage-2019.09.28_20-50-22-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasCoverageData</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestCoverage project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestCoverage</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test TestCoverage</string>
+			<key>timeStartedRecording</key>
+			<real>591389422.25615001</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test TestCoverage</string>
+			<key>uniqueIdentifier</key>
+			<string>4116E3C7-3542-4ABE-9B17-5108423D61ED</string>
+		</dict>
+		<key>BD1DEA82-4AA8-4137-B0FE-2E145C4B3E9A</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>E034CE06-5796-45A7-824F-9109EDD4AE31</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-TestCoverage-2019.09.28_18-38-01-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasCoverageData</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestCoverage project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestCoverage</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test TestCoverage</string>
+			<key>timeStartedRecording</key>
+			<real>591381481.91937804</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test TestCoverage</string>
+			<key>uniqueIdentifier</key>
+			<string>BD1DEA82-4AA8-4137-B0FE-2E145C4B3E9A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

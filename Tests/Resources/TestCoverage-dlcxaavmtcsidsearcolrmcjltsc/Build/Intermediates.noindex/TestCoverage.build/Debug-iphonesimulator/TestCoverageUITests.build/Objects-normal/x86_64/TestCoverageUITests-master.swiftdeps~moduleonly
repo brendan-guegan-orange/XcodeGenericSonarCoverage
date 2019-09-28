@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "f340f2904b90af9136f78354bd9cdf4c"
+build_time: [1569688685, 190735000]
+inputs:
+  "/Users/brendanguegan/Projects/TestCoverage/TestCoverageUITests/TestCoverageUITests.swift": [1569688469, 0]

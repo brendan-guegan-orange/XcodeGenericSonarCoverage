@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>B56B65BA-DBED-4171-BC43-E312F6D9655E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B56B65BA-DBED-4171-BC43-E312F6D9655E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestCoverage project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestCoverage</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestCoverage</string>
+			<key>timeStartedRecording</key>
+			<real>591389422.25652397</real>
+			<key>timeStoppedRecording</key>
+			<real>591389427.89307296</real>
+			<key>title</key>
+			<string>Build TestCoverage</string>
+			<key>uniqueIdentifier</key>
+			<string>B56B65BA-DBED-4171-BC43-E312F6D9655E</string>
+		</dict>
+		<key>E034CE06-5796-45A7-824F-9109EDD4AE31</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E034CE06-5796-45A7-824F-9109EDD4AE31.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestCoverage project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestCoverage</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestCoverage</string>
+			<key>timeStartedRecording</key>
+			<real>591381481.919662</real>
+			<key>timeStoppedRecording</key>
+			<real>591381492.99533796</real>
+			<key>title</key>
+			<string>Build TestCoverage</string>
+			<key>uniqueIdentifier</key>
+			<string>E034CE06-5796-45A7-824F-9109EDD4AE31</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

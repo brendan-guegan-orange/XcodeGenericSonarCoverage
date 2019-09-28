@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "ebe1a624389afea4e544ee2c214de6ee"
+build_time: [1569696622, 533884000]
+inputs:
+  "/Users/brendanguegan/Projects/TestCoverage/TestCoverage/Covered.swift": [1569688547, 0]
+  "/Users/brendanguegan/Projects/TestCoverage/TestCoverage/AppDelegate.swift": [1569688533, 0]
+  "/Users/brendanguegan/Projects/TestCoverage/TestCoverage/PartiallyCovered.swift": [1569696606, 0]
+  "/Users/brendanguegan/Projects/TestCoverage/TestCoverage/SceneDelegate.swift": [1569688464, 0]
+  "/Users/brendanguegan/Projects/TestCoverage/TestCoverage/NotCovered.swift": [1569688590, 0]
+  "/Users/brendanguegan/Projects/TestCoverage/TestCoverage/ContentView.swift": [1569688464, 0]

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>3288BEBC-BFC0-410C-B0E9-C30207F135B3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.bundle</string>
+			<key>fileName</key>
+			<string>3288BEBC-BFC0-410C-B0E9-C30207F135B3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>TestCoverageUITests-dlcxaavmtcsidsearcolrmcjltsc</string>
+			<key>timeStartedRecording</key>
+			<real>591381482.36195302</real>
+			<key>timeStoppedRecording</key>
+			<real>591381491.68355298</real>
+			<key>title</key>
+			<string>Build target TestCoverageUITests</string>
+			<key>uniqueIdentifier</key>
+			<string>3288BEBC-BFC0-410C-B0E9-C30207F135B3</string>
+		</dict>
+		<key>4E27BD00-C34B-4627-98D3-A5E55D8532A4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>4E27BD00-C34B-4627-98D3-A5E55D8532A4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>TestCoverage-dlcxaavmtcsidsearcolrmcjltsc</string>
+			<key>timeStartedRecording</key>
+			<real>591389422.51298106</real>
+			<key>timeStoppedRecording</key>
+			<real>591389425.91409695</real>
+			<key>title</key>
+			<string>Build target TestCoverage</string>
+			<key>uniqueIdentifier</key>
+			<string>4E27BD00-C34B-4627-98D3-A5E55D8532A4</string>
+		</dict>
+		<key>C5EF0C02-C569-42C7-A7C5-0133859CD39B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.bundle</string>
+			<key>fileName</key>
+			<string>C5EF0C02-C569-42C7-A7C5-0133859CD39B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>TestCoverageTests-dlcxaavmtcsidsearcolrmcjltsc</string>
+			<key>timeStartedRecording</key>
+			<real>591389425.91926503</real>
+			<key>timeStoppedRecording</key>
+			<real>591389427.87822294</real>
+			<key>title</key>
+			<string>Build target TestCoverageTests</string>
+			<key>uniqueIdentifier</key>
+			<string>C5EF0C02-C569-42C7-A7C5-0133859CD39B</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

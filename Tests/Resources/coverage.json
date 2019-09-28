@@ -1,0 +1,206 @@
+{
+   "coveredLines":43,
+   "lineCoverage":0.55844155844155841,
+   "targets":[
+      {
+         "coveredLines":43,
+         "lineCoverage":0.55844155844155841,
+         "files":[
+            {
+               "coveredLines":6,
+               "lineCoverage":0.66666666666666663,
+               "path":"\/Users\/brendanguegan\/Projects\/TestCoverage\/TestCoverage\/PartiallyCovered.swift",
+               "functions":[
+                  {
+                     "coveredLines":3,
+                     "lineCoverage":1,
+                     "lineNumber":15,
+                     "executionCount":1,
+                     "name":"TestCoverage.PartiallyCovered.thisIsCovered() -> Swift.String",
+                     "executableLines":3
+                  },
+                  {
+                     "coveredLines":0,
+                     "lineCoverage":0,
+                     "lineNumber":19,
+                     "executionCount":0,
+                     "name":"TestCoverage.PartiallyCovered.thisIsNotCovered() -> Swift.String",
+                     "executableLines":3
+                  },
+                  {
+                     "coveredLines":3,
+                     "lineCoverage":1,
+                     "lineNumber":23,
+                     "executionCount":1,
+                     "name":"TestCoverage.PartiallyCovered.thisIsPartiallyCovered() -> Swift.String",
+                     "executableLines":3
+                  }
+               ],
+               "name":"PartiallyCovered.swift",
+               "executableLines":9
+            },
+            {
+               "coveredLines":4,
+               "lineCoverage":0.2857142857142857,
+               "path":"\/Users\/brendanguegan\/Projects\/TestCoverage\/TestCoverage\/AppDelegate.swift",
+               "functions":[
+                  {
+                     "coveredLines":4,
+                     "lineCoverage":1,
+                     "lineNumber":16,
+                     "executionCount":1,
+                     "name":"TestCoverage.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional<Swift.Dictionary<__C.UIApplicationLaunchOptionsKey, Any>>) -> Swift.Bool",
+                     "executableLines":4
+                  },
+                  {
+                     "coveredLines":0,
+                     "lineCoverage":0,
+                     "lineNumber":23,
+                     "executionCount":0,
+                     "name":"TestCoverage.AppDelegate.application(_: __C.UIApplication, configurationForConnecting: __C.UISceneSession, options: __C.UISceneConnectionOptions) -> __C.UISceneConfiguration",
+                     "executableLines":5
+                  },
+                  {
+                     "coveredLines":0,
+                     "lineCoverage":0,
+                     "lineNumber":29,
+                     "executionCount":0,
+                     "name":"TestCoverage.AppDelegate.application(_: __C.UIApplication, didDiscardSceneSessions: Swift.Set<__C.UISceneSession>) -> ()",
+                     "executableLines":5
+                  }
+               ],
+               "name":"AppDelegate.swift",
+               "executableLines":14
+            },
+            {
+               "coveredLines":6,
+               "lineCoverage":1,
+               "path":"\/Users\/brendanguegan\/Projects\/TestCoverage\/TestCoverage\/Covered.swift",
+               "functions":[
+                  {
+                     "coveredLines":3,
+                     "lineCoverage":1,
+                     "lineNumber":12,
+                     "executionCount":1,
+                     "name":"TestCoverage.Covered.thisIsCovered() -> Swift.String",
+                     "executableLines":3
+                  },
+                  {
+                     "coveredLines":3,
+                     "lineCoverage":1,
+                     "lineNumber":16,
+                     "executionCount":1,
+                     "name":"TestCoverage.Covered.thisIsCoveredAlso() -> Swift.String",
+                     "executableLines":3
+                  }
+               ],
+               "name":"Covered.swift",
+               "executableLines":6
+            },
+            {
+               "coveredLines":3,
+               "lineCoverage":0.5,
+               "path":"\/Users\/brendanguegan\/Projects\/TestCoverage\/TestCoverage\/ContentView.swift",
+               "functions":[
+                  {
+                     "coveredLines":3,
+                     "lineCoverage":1,
+                     "lineNumber":12,
+                     "executionCount":1,
+                     "name":"TestCoverage.ContentView.body.getter : some",
+                     "executableLines":3
+                  },
+                  {
+                     "coveredLines":0,
+                     "lineCoverage":0,
+                     "lineNumber":18,
+                     "executionCount":0,
+                     "name":"static TestCoverage.ContentView_Previews.previews.getter : some",
+                     "executableLines":3
+                  }
+               ],
+               "name":"ContentView.swift",
+               "executableLines":6
+            },
+            {
+               "coveredLines":24,
+               "lineCoverage":0.61538461538461542,
+               "path":"\/Users\/brendanguegan\/Projects\/TestCoverage\/TestCoverage\/SceneDelegate.swift",
+               "functions":[
+                  {
+                     "coveredLines":16,
+                     "lineCoverage":1,
+                     "lineNumber":17,
+                     "executionCount":1,
+                     "name":"TestCoverage.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -> ()",
+                     "executableLines":16
+                  },
+                  {
+                     "coveredLines":0,
+                     "lineCoverage":0,
+                     "lineNumber":34,
+                     "executionCount":0,
+                     "name":"TestCoverage.SceneDelegate.sceneDidDisconnect(__C.UIScene) -> ()",
+                     "executableLines":6
+                  },
+                  {
+                     "coveredLines":4,
+                     "lineCoverage":1,
+                     "lineNumber":41,
+                     "executionCount":1,
+                     "name":"TestCoverage.SceneDelegate.sceneDidBecomeActive(__C.UIScene) -> ()",
+                     "executableLines":4
+                  },
+                  {
+                     "coveredLines":0,
+                     "lineCoverage":0,
+                     "lineNumber":46,
+                     "executionCount":0,
+                     "name":"TestCoverage.SceneDelegate.sceneWillResignActive(__C.UIScene) -> ()",
+                     "executableLines":4
+                  },
+                  {
+                     "coveredLines":4,
+                     "lineCoverage":1,
+                     "lineNumber":51,
+                     "executionCount":1,
+                     "name":"TestCoverage.SceneDelegate.sceneWillEnterForeground(__C.UIScene) -> ()",
+                     "executableLines":4
+                  },
+                  {
+                     "coveredLines":0,
+                     "lineCoverage":0,
+                     "lineNumber":56,
+                     "executionCount":0,
+                     "name":"TestCoverage.SceneDelegate.sceneDidEnterBackground(__C.UIScene) -> ()",
+                     "executableLines":5
+                  }
+               ],
+               "name":"SceneDelegate.swift",
+               "executableLines":39
+            },
+            {
+               "coveredLines":0,
+               "lineCoverage":0,
+               "path":"\/Users\/brendanguegan\/Projects\/TestCoverage\/TestCoverage\/NotCovered.swift",
+               "functions":[
+                  {
+                     "coveredLines":0,
+                     "lineCoverage":0,
+                     "lineNumber":12,
+                     "executionCount":0,
+                     "name":"TestCoverage.NotCovered.thisIsNotCovered() -> Swift.String",
+                     "executableLines":3
+                  }
+               ],
+               "name":"NotCovered.swift",
+               "executableLines":3
+            }
+         ],
+         "name":"TestCoverage.app",
+         "executableLines":77,
+         "buildProductPath":"\/Users\/brendanguegan\/Library\/Developer\/Xcode\/DerivedData\/TestCoverage-dlcxaavmtcsidsearcolrmcjltsc\/Build\/Products\/Debug-iphonesimulator\/TestCoverage.app\/TestCoverage"
+      }
+   ],
+   "executableLines":77
+}
