@@ -123,7 +123,7 @@ fileprivate struct JSONCoverage: Decodable {
             
             struct Function: Decodable {
                 let coveredLines: Int
-                let lineCoverage: Int
+                let lineCoverage: Double
                 let lineNumber: Int
                 let executionCount: Int
                 let name: String
