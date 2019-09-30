@@ -73,7 +73,7 @@ public struct XcodeGenericSonarCoverage {
                 file.functions.forEach { function in
                     fileHandle.write("\n\t\t<lineToCover lineNumber=\"\(function.lineNumber)\"")
                     let covered = 0 == function.lineCoverage ? "false" : "true"
-                    fileHandle.write("covered=\"\(covered)\"/>")
+                    fileHandle.write(" covered=\"\(covered)\"/>")
                 }
                 fileHandle.write("\n\t</file>")
             }
