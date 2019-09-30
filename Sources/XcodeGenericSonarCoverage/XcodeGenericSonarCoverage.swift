@@ -1,10 +1,10 @@
 import Foundation
 import SwiftShell
 
-struct XcodeGenericSonarCoverage {
-    let xcResultURL: URL
+public struct XcodeGenericSonarCoverage {
+    public let xcResultURL: URL
     
-    init(derivedDataURL: URL) throws {
+    public init(derivedDataURL: URL) throws {
         let fileManager = FileManager.default
         var isDirectory: ObjCBool = false
         guard fileManager.fileExists(atPath: derivedDataURL.path, isDirectory: &isDirectory) else {
@@ -45,7 +45,7 @@ struct XcodeGenericSonarCoverage {
         xcResultURL = xcResult
     }
     
-    func generateCoverageReport(at destination: URL) throws {
+    public func generateCoverageReport(at destination: URL) throws {
         let fileManager = FileManager.default
         if !fileManager.fileExists(atPath: destination.path),
             !fileManager.createFile(atPath: destination.path, contents: nil, attributes: nil) {
